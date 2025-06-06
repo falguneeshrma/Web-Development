@@ -1,0 +1,11 @@
+div{
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    background-color:#7aa874 ;
+    margin: 10px auto;
+    box-shadow: 2px 2px 8px yellow;
+    background-image: url(Butterflies.jpeg);
+    background-size: contain;
+}
+

@@ -1,0 +1,46 @@
+#mainTopic{
+    color: blue;
+}
+
+*{
+    text-align: center;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#allPara{
+    color: white;
+    background-color: cornflowerblue;
+}
+
+div button{
+    color: azure;
+    background-color: purple;
+}
+
+div button:hover{
+    color: blue;
+    background-color: yellow;
+}
+
+#allPara:nth-of-type(2n-1){
+    color: yellow;
+}
+
+h1::first-letter{
+    color: red;
+}
+
+#yes:checked{
+    color: darkgreen;
+}
